@@ -1,6 +1,6 @@
-<!DOOTYPE html>
+<!DOTYPE html>
 <html lang= "pt-BR">
-<head></head>
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Meu primeiro site</title>
@@ -17,4 +17,12 @@
             </ul>
         </nav>
     </header>
+    <main>
+        <section id="sobre">
+            <h2>SOBRE MIM</h2>
+            <img src=""
+            <p>EU SOU A ANA LAURA MORO EM LONATO-PARANA,ESTUDO NO COLEGIO RUI BARBOSA,TENHO QUINZE ANOS,QUERO ME FORMA EM ZOOTECNIA,MORO COM MINHA MÃE,TENHO UM IRMÃO MAIS VELHO,QUANDO EU ME FORMA PRETENDO IR MORA NO MATO GROSSO E TER UMA FAZENDA,MEU FILME FAVORITO E O FABRICANTE DE LAGRIMA</p>
+        </section>
+        <section id="hobbies"
+    </main>
 </body>
