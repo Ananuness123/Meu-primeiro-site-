@@ -23,6 +23,16 @@
             <img src=""
             <p>EU SOU A ANA LAURA MORO EM LONATO-PARANA,ESTUDO NO COLEGIO RUI BARBOSA,TENHO QUINZE ANOS,QUERO ME FORMA EM ZOOTECNIA,MORO COM MINHA MÃE,TENHO UM IRMÃO MAIS VELHO,QUANDO EU ME FORMA PRETENDO IR MORA NO MATO GROSSO E TER UMA FAZENDA,MEU FILME FAVORITO E O FABRICANTE DE LAGRIMA</p>
         </section>
-        <section id="hobbies"
+        <section id="hobbies".
+        <h2> Meus Hobbies</h2>
+        <ul>
+            <li>Gosto de ler</li>
+            <li>Gosto de dormi</li>
+            <li>Gosto de ficar na minha casa</li>
+        </ul>
     </main>
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>VOCE PODE FALAR COMIGO PELO INSTAGRAM:@ana_nunesss13</p>
+    </section>
 </body>
