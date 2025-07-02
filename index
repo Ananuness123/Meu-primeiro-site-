@@ -30,9 +30,14 @@
             <li>Gosto de dormi</li>
             <li>Gosto de ficar na minha casa</li>
         </ul>
-    </main>
+    </section>
     <section id="contato">
         <h2>Contato</h2>
         <p>VOCE PODE FALAR COMIGO PELO INSTAGRAM:@ana_nunesss13</p>
     </section>
+    </main>
+    <footer>
+        <p>2025 ANA LAURA.Todos os direitos reservados</p>
+    </footer>
 </body>
+</html>
